@@ -8,7 +8,7 @@ body {
     font-size: small;
 }
 
-/* formato del del cabezera */
+/* formato del la cabezera */
 
 header {
     background-color: #333;
@@ -50,7 +50,7 @@ footer {
     bottom: 0;
 }
 
-/* formato del imagen y escudo */
+/* formato de imagen y escudo */
 
 img {
     max-width: 50%;
